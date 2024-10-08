@@ -1,5 +1,5 @@
 ## ✨ MMComposition: Revisiting the Compositionality of Pre-trained Vision-Language Models
-[**🌐 Homepage**](https://yunlong10.github.io/projects/mmcomposition) | [**🔬 Paper**](https://github.com/hanghuacs/MMComposition) ｜ [**👩‍💻 Code**](https://github.com/hanghuacs/MMComposition) ｜ [**📊 Evaluation**](https://github.com/hanghuacs/MMComposition) | [**📈 Dataset**](https://github.com/hanghuacs/MMComposition) | [**🏆 Leaderboard**](https://yunlong10.github.io/projects/mmcomposition/#leaderboard)
+[**🌐 Homepage**](https://yunlong10.github.io/projects/mmcomposition) | [**🔬 Paper**](https://github.com/hanghuacs/MMComposition) ｜ [**👩‍💻 Code**](https://github.com/hanghuacs/MMComposition/blob/main/evaluation.py) ｜ [**📊 Evaluation**](https://github.com/hanghuacs/MMComposition) | [**📈 Dataset**](https://github.com/hanghuacs/MMComposition) | [**🏆 Leaderboard**](https://yunlong10.github.io/projects/mmcomposition/#leaderboard)
 
 ## What is MMComposition?
 > MMComposition is ...
