@@ -17,6 +17,8 @@
 - `Object Interaction`
 - `Compositional Probing`
 
+## Getting Started
+
 ## 🏆 Leaderboard
 
 ## 📉 Statistics
