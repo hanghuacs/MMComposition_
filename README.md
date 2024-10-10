@@ -4,18 +4,18 @@
 ## What is MMComposition?
 > MMComposition aims to provide a comprehensive assessment of compositionality for Vision-Language Models (VLMs) -- the ability to understand and produce novel combinations of known visual and textual components. This research endeavor is designed to help researchers and practitioners better understand the capabilities, limitations, and critical areas for model improvement in VLM design and training. MMComposition comprises 13 complex vision-language composition tasks, including:
 - `Attribute Perception`
-  - `Object Perception`
-  - `Counting Perception`
-  - `Relation Perception`
-  - `Difference Spotting`
-  - `Text Rendering`
-  - `Visual Similarity`
-  - `Attribute Reasoning`
-  - `Object Reasoning`
-  - `Counting Reasoning`
-  - `Relation Reasoning`
-  - `Object Interaction`
-  - `Compositional Probing`
+- `Object Perception`
+- `Counting Perception`
+- `Relation Perception`
+- `Difference Spotting`
+- `Text Rendering`
+- `Visual Similarity`
+- `Attribute Reasoning`
+- `Object Reasoning`
+- `Counting Reasoning`
+- `Relation Reasoning`
+- `Object Interaction`
+- `Compositional Probing`
 
 ## 🏆 Leaderboard
 
