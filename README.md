@@ -27,10 +27,10 @@
 ## ✏️ Citation
 ```bibtex
 @article{hua2024mmcomposition,
-      title={MMComposition: Benchmarking the Compositionality for Pre-trained Vision-Language Models},
-      author={Hua, Hang and Tang, Yunlong and Zeng, Ziyun and Cao, Liangliang and Yang, Zhengyuan and He, Hangfeng and Xu, Chenliang and Luo, Jiebo},
-      journal={},
-      year={2024}
+  title={MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models},
+  author={Hua, Hang and Tang, Yunlong and Zeng, Ziyun and Cao, Liangliang and Yang, Zhengyuan and He, Hangfeng and Xu, Chenliang and Luo, Jiebo},
+  journal={arXiv preprint arXiv:2410.09733},
+  year={2024}
 }
 ```
 
